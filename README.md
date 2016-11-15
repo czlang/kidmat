@@ -4,7 +4,7 @@ Tiny math exercise for tiny kids
 
 ## Overview
 
-First 'hurry-version' for tonight bed.
+First 'hurry-version' for tonight bed. https://czlang.github.io/kidmat
 
 Todo
 * number inputs
