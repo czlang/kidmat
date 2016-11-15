@@ -46,7 +46,7 @@
                ;; lein cljsbuild once min
                {:id "min"
                 :source-paths ["src"]
-                :compiler {:output-to "resources/public/js/compiled/kidmat.js"
+                :compiler {:output-to "js/compiled/kidmat.js"
                            :main kidmat.core
                            :optimizations :advanced
                            :pretty-print false}}]}
