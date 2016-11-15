@@ -1,5 +1,5 @@
 (defproject kidmat "0.1.0-SNAPSHOT"
-  :description "FIXME: write this!"
+  :description "Tiny math exercise for tiny kids"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
